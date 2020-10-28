@@ -1,6 +1,9 @@
 ## Kanji Collection
 
-Collection of kanjis I'm learning currently.
+Collection of kanjis I'm currently learning.
+
+Kanjis are saved in Markdown format files. It's corresponding 訓 (くん), 音 (おん) readings and meanings are also saved.
+
 
 
 References:
