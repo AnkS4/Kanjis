@@ -1,6 +1,6 @@
 |  かんじ (漢字) |   くんよみ   |   おんよみ   |     いみ    |
 | ----------- | ----------- | ----------- | ----------- |
-| 白 | | | White |
-| 黒 | | | Black |
-| 青 | | | Blue, Green |
-| 赤 | | | Red |
+| 白 | しろ、 しら-、 しろ.い | ハク、 ビャク | White |
+| 黒 | くろ、 くろ.ずむ、 くろ.い | コク | Black |
+| 青 | あお、 あお-、 あお.い | セイ、 ショウ | Blue, Green, (Traffic) Green Light, Young, Unripe |
+| 赤 | あか、 あか-、 あか.い、 あか.らむ、 あか.らめる | セキ、 シャク | Red, Communism, Socialism, Communist |
